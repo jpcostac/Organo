@@ -1,0 +1,84 @@
+.NomeUsuario{
+    position: absolute;
+    width: 117px;
+    height: 23px;
+    left: 1267px;
+    top: 55px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+    /*max-width: 100%;*/
+}
+
+.NomeCargo{
+    position: absolute;
+    width: 117px;
+    height: 18px;
+    left: 1267px;
+    top: 78px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.Caixa{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1192px;
+    top: 48px;
+
+    background: #D9D9D9;
+
+    border-radius: 50%;
+}
+
+/*.Iniciais{
+    position: absolute;
+    width: 33px;
+    height: 28px;
+    left: 1206px;
+    top: 64px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+}*/
+
+.Iniciais{
+    position: relative;
+    top:15px;
+    left: 17px;
+    
+    /* position: absolute;
+    width: 33px;
+    height: 28px;
+    left: 1206px;
+    top: 64px; */
+
+    font-family: 'Roboto';
+    /*font-style: normal;*/
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+}
+
